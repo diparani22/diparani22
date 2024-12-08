@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipa Rani</h1>
 <h3 align="center">I am from Bangladesh and completed my study on B.sc in CSE at BUBT</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diparani22&label=Profile%20views&color=0e75b6&style=flat" alt="diparani22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diparani22" alt="diparani22" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [I’m currently serving Digital Marketing Expert.](https://a2itltd.com/)
 
